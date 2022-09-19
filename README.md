@@ -33,18 +33,18 @@ To run **Fly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/sandihisyam/fly.git
+sudo git clone https://enaken.netlify.app/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/sandihisayam/fly.git
+git clone https://enaken.netlify.app/
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/sandi).
 
 ### License
 
