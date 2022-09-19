@@ -16,9 +16,7 @@ website makanan
 
 <br />
 
-### Demo Screeshots
 
-![Fly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
