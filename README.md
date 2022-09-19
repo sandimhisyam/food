@@ -10,7 +10,7 @@ website makanan
 
   Fly is a fully responsive flight website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/fly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://enaken.netlify.app//"><strong>➥ Live Demo</strong></a>
 
 </div>
 
