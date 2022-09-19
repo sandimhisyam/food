@@ -6,7 +6,7 @@ website makanan
   <br />
   <br />
 
-  <h2 align="center">Fly - Flight Website</h2>
+  <h2 align="center">Food - Enaken Website</h2>
 
   Fly is a fully responsive flight website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
